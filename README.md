@@ -44,4 +44,15 @@ Configure, secure, and join a virtualized Windows 11 client workstation to an on
 ---
 
 ## 📸 Lab Evidence
-*(Add screenshots of your Windows 11 system domain properties showing "ApexTech.com" and Active Directory Users and Computers showing the computer object inside the Workstations OU here)*
+
+### Windows 11 Domain Membership Properties
+![Windows 11 System Properties](<win11-domain-properties.png>)
+
+### Domain User Login Verification
+![Domain User Start Menu](<win11-domain-login.png>)
+
+### Client DNS Configuration
+![IPv4 DNS Properties](<win11-dns-config.png>)
+
+### Active Directory Workstations OU Placement
+![Active Directory Workstations OU](<ad-workstations-ou.png>)
